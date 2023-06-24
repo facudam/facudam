@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Facundo Cáceres, a frontend React developer from Buenos Aires, Argentina</h1>
+<h1 align="left">Hi, I'm Facundo Cáceres, a frontend React developer</h1>
 
 
 <h3>I'm a self-taught and college student developer, with a fascination for web application development and creating solutions.</h3>
