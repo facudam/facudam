@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript, NextJS and SASS**
 
-- 👨‍💻 Some of my projects are available here at my github profile or you can visit my personal portfolio to know a little more about me: [https://facundocaceres.netlify.app/](https://facundocaceres.netlify.app/)
+- 👨‍💻 Some of my projects are available here at my github profile or you can visit my personal portfolio to know a little more about me: [https://facundocaceres.dev](https://facundocaceres.dev)
 
 - 📫 How to reach me **facundocaceres.email@gmail.com**
 
