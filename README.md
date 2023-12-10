@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Facundo Cáceres, a Web developer</h1>
+<h1 align="left">Hi, I'm Facundo Cáceres, a Web Developer</h1>
 
 
 <p align="left">I'm a self-taught and university student developer, with a fascination for web application development and creating solutions.<p>
