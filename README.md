@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PHP y Jest/React-testing-library**
 
-- 👨‍💻 Some of my projects are available here at my github profile or you can visit my personal portfolio to know a little more about me: [https://facundocaceres.dev](https://facundocaceres.dev)
+
 
 - 📫 How to reach me **facundocaceres.email@gmail.com**
 
